@@ -1,1 +1,2 @@
-console.log("oi");
+let nome = "Estudando na Dio";
+console.log(nome);
